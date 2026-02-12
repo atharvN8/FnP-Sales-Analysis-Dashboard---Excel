@@ -19,14 +19,14 @@ Order Date (Year & Month)
 Delivery Date
 Occasion (Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, Valentine’s Day, etc.)
 
-#📌 Key KPIs Displayed
+## 📌 Key KPIs Displayed
 KPI	Value Type
 Total Orders	Count of Orders
 Total Revenue	₹ Sales Amount
 Avg. Customer Spend	₹ Per Customer
 Order Time Delivery	Average Delivery Time
 
-#📊 Dashboard Insights Included
+## 📊 Dashboard Insights Included
 1️⃣ Revenue by Occasions
 
 Helps identify peak revenue-generating events.
@@ -57,7 +57,7 @@ Useful for promotional strategies.
 Identifies strongest geographic markets.
 Supports regional expansion decisions.
 
-#🛠 Tools & Excel Features Used
+## 🛠 Tools & Excel Features Used
 
 Microsoft Excel
 Pivot Tables
@@ -66,13 +66,13 @@ Slicers
 Conditional Formatting
 Data Cleaning & Transformation
 
-#📂 File Structure
+## 📂 File Structure
 📁 FnP-Sales-Dashboard
  ├── FnP_Sales_Dashboard.xlsx
  ├── Screenshot (15).png
  └── README.md
 
-#🎯 Business Use Case
+## 🎯 Business Use Case
 
 This dashboard can be used by:
 
@@ -90,7 +90,7 @@ Customer behavior analysis
 Occasion-based marketing planning
 Regional sales optimization
 
-#📈 Learning Outcomes
+## 📈 Learning Outcomes
 
 This project demonstrates:
 
@@ -100,7 +100,7 @@ KPI identification
 Excel automation and reporting
 Real-world sales analytics
 
-#🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add Power Query automation
 Add Power BI version
@@ -108,12 +108,12 @@ Include Profit & Cost Analysis
 Add Forecasting Model
 Customer Segmentation Analysis
 
-#👤 Author
+## 👤 Author
 
 Atharv Netankar
 Aspiring Data Analytics Enthusiast
 
-#⭐ If you found this useful
+## ⭐ If you found this useful
 
 Give this repository a ⭐ on GitHub!
 KPI Cards using formulas
