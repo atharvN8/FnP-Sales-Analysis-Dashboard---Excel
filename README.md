@@ -1,7 +1,7 @@
 # FnP-Sales-Analysis-Dashboard---Excel
 An interactive Excel-based sales analytics dashboard designed to track business performance, customer behavior, and regional sales trends for FnP (Ferns N Petals). This project transforms raw transactional data into actionable insights through visual storytelling.This project demonstrates practical data analysis, business intelligence, and dashboard design using Excel features like Pivot Tables, Charts, Slicers, and Data Modeling.
 
-#🚀 Project Overview
+## 🚀 Project Overview
 The FnP Sales Dashboard provides a complete sales performance overview including:
 
 Total Orders
